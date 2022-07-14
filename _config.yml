@@ -12,4 +12,5 @@ twitter_username: tiltlordape # DO NOT include the @ character, or else the buil
 github_username:  tiltlordflexnuts # DO NOT include the @ character, or else the build will fail!
 instagram_username: vegasvi
 
+
 show_excerpts: true # set to false to remove excerpts on the homepage
